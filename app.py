@@ -7,7 +7,7 @@ import pandas as pd
 st.header("Data Scraper App")
 st.image('twitter.jpg')
 st.subheader('''
-A simple app to scrap data from Twitter.
+A simple app to scrap data from Twitter By TRHACKNON.
 ''')
 
 # form to collect searcy query and other conditions
